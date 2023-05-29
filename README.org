@@ -1,0 +1,12 @@
+#+TITLE: README
+#+AUTHOR: cheattheweb
+
+* About
+This repo is all about CyberSecurit, InfoSec, Networking, Linux, Bug Bounty, PenTesting, etc.
+* Topics
+** Internet / Web Fundamentals
+1. How internet works
+2. HTTP details
+3. Secert of URL search
+
+** Networking
