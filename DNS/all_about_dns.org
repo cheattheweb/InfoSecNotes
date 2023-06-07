@@ -1,0 +1,26 @@
+#+TITLE: Domain Name System
+#+AUTHOR: cheattheweb
+
+* What is DNS ?
+    DNS, or Domain Name System is the backbone of the internet.
+    Without it, we would need to remember innumerable IP addresses just to navigate to our favorite web sites. Imagine trying to remember the IPv4 (32-bit) addresses of Facebook, Amazon and Hackers-Arise, just to visit each of those critically important web sites (only made worse by IPv6 128-bit addresses).
+    It translates human-readable domain names, such as google.com to machine readable IP addresses.
+
+* How Domain Names Work ?
+    Domain Names are Basically an alias of an IP address.
+    Domain names must be registered with ICANN (Internet Corporation for Assigned Names and Numbers) usually through an intermediary such as VeriSign or GoDaddy. 
+    ** TLD (Top-Level Domain)
+        A TLD is the most righthand part of a domain name. So, for example, the cheattheweb.me TLD is .me .
+        There are two types of TLD, *gTLD* (Generic Top Level, example - .com, .net, .org) and ccTLD (Country Code Top Level Domain, example - .uk, .us, .in).
+        Now there are over 2000 TLDs [[https://data.iana.org/TLD/tlds-alpha-by-domain.txt][click here to see]].
+    ** Second-Level Domain
+        Taking the example cheattheweb.me, the .me part is the TLD, cheattheweb is the Second Level Domain.
+        The Second Level Domain is limited to 63 characters.
+    ** Subdomain
+        A subdomain sits on the left-hand side of the Second-Level Domain using a period to separate it; for example, in the name admin.cheattheweb.com the admin part is the subdomain.
+        The character limite is also same as Second Level Domain.
+        We can use as much subdomains we want in a domain name.
+        But the length must kept to 253 characters or less.
+
+
+
