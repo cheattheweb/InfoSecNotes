@@ -1,0 +1,48 @@
+#+TITLE: ALl About DNS and DNS Security
+#+AUTHOR: cheattheweb
+
+This repo is all About DNS and DNS Security.
+How DNS works, Domain names and IP addresses, DNS Zones, DNS vulnerbilities, etc.
+
+*Key Words To Note
+1. Domain names
+2. IP address
+3. DNS
+4. ICANN
+5. TLD
+6. FQDN
+7. Hierarchical system
+8. Sub Domain
+9. Host Files
+10. ARPANET
+11. DNS spoofing
+12. LAN
+13. Root Server
+14. Authoritative Server
+15. DNS Cache
+16. DNS Resolver
+17. Name Servers
+18. Name Space
+19. Zone Files
+20. DNS Zons
+21. Zone Transfare
+22. Resource Records
+23. Owner
+24. TTL
+25. Class
+26. Type
+27. RDATA
+28. SOA Records
+29. NS Records
+30. A Records
+31. AAAA Records
+32. CNAME Record
+33. PTR Records
+34. MX Records
+35. DNS Queries
+36. TCP and UDP
+37. DNSSec
+38. Second-Level Domain
+
+* Resource
+[[Hacker-arise][https://www.hackers-arise.com/post/2019/05/20/network-basics-for-hackers-domain-name-service-dns-and-bind-theory-vulnerabilities-and-im]]

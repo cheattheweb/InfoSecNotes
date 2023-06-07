@@ -8,5 +8,6 @@ This repo is all about CyberSecurit, InfoSec, Networking, Linux, Bug Bounty, Pen
 1. How internet works
 2. HTTP details
 3. Secert of URL search
+4. DNS
 
 ** Networking
