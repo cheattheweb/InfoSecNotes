@@ -4,7 +4,7 @@
 This repo is all About DNS and DNS Security.
 How DNS works, Domain names and IP addresses, DNS Zones, DNS vulnerbilities, etc.
 
-*Key Words To Note
+* Key Words To Note
 1. Domain names
 2. IP address
 3. DNS
@@ -45,4 +45,10 @@ How DNS works, Domain names and IP addresses, DNS Zones, DNS vulnerbilities, etc
 38. Second-Level Domain
 
 * Resource
-[[Hacker-arise][https://www.hackers-arise.com/post/2019/05/20/network-basics-for-hackers-domain-name-service-dns-and-bind-theory-vulnerabilities-and-im]]
+- [[https://www.hackers-arise.com/post/2019/05/20/network-basics-for-hackers-domain-name-service-dns-and-bind-theory-vulnerabilities-and-im][Hacker-arise]]
+- [[https://tryhackme.com/room/dnsindetail][TryHackMe]]
+- [[https://www.cloudflare.com/learning/dns/what-is-dns/][Cloudflare]]
+- [[https://www.youtube.com/watch?v=1CW_YjixCW4][Bitten Tech on DNS]]
+- [[https://www.youtube.com/watch?v=4-vKfKVyjHA][Bitten Tech on DNS Zones Transfare]]
+- [[https://www.youtube.com/watch?v=CCjADT5U2i8][Bitten Tech ON DNS Zones]]
+- [[https://www.youtube.com/watch?v=27r4Bzuj5NQ][ByteByteGo]]
