@@ -1,0 +1,44 @@
+#+TITLE: What is Shell ?
+#+AUTHOR: cheattheweb
+#+DATE: <2023-08-12 Sat>
+
+
+* What Does Shell Mean?
+Shell is the outer layer of an OS. It incorporates a (usually high-level) programming language to control files and processes, manage other programs, etc.
+
+Depending on the OS there are mainly two types of shells
+CLI (Command Line Interface) and GUI (Graphical User Interface). There are also some implementations of TUI (Text-base User Interface), but they are rare.
+
+Shells in most operating systems are not direct interfaces to the kernel that lies beneath, even if the shell communicates with the program or user through peripheral devices directly attached to the computer system. A shell is precisely software that uses the kernel API in a manner the same as is used by other software programs.
+
+Shell takes the input from the user and evaluates it and eventually deals with the output. Since it is an application software it can be replaced by other software or shells.
+
+* Command-line shells
+
+On CLI shells we use text/commands to operate the OS.
+
+** There are different types of CLI shells used on other OS like :
+1. Bourne shell (sh)
+2. Korn shell (ksh)
+3. Bourne again shell (bash)
+4. C shell (csh)
+5. Z shell (zsh)
+6. Fish shell (fish)
+
+On Linux-based systems, we view the shell path by using these Commands
+
+#+begin_src bash
+cat /etc/shells
+#+end_src
+
+Or if want to know the path on bash shell then
+
+#+begin_src bash
+which bash
+#+end_src
+
+* Resource
+For more information :
+[[https://www.scaler.com/topics/shell-in-operating-system/][Scaler.com]]
+[[https://en.wikipedia.org/wiki/Shell][Wikipedia]]
+[[https://www.techopedia.com/definition/3427/shell][Techopedia]]
